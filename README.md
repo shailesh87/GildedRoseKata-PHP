@@ -16,13 +16,13 @@ Recommended:
 Clone the repository
 
 ```sh
-git clone git@github.com:emilybache/GildedRose-Refactoring-Kata.git
+git clone git@github.com:shailesh87/GildedRoseKata-PHP.git
 ```
 
 or
 
 ```shell script
-git clone https://github.com/emilybache/GildedRose-Refactoring-Kata.git
+git clone https://github.com/shailesh87/GildedRoseKata-PHP.git
 ```
 
 Install all the dependencies using composer
